@@ -1,0 +1,10 @@
+﻿  monitor.cpp
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(58,92): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(59,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(60,90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(61,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(67,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(67,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(75,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\opengl\ExperimenterSource\Chapter10\monitor\monitor.cpp(82,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Table.vcxproj -> C:\opengl\ExperimenterSource\Chapter10\monitor\Debug\Table.exe

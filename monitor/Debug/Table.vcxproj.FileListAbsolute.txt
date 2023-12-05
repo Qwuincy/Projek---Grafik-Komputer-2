@@ -1,0 +1,2 @@
+C:\opengl\ExperimenterSource\Chapter10\Table\Debug\Table.exe
+C:\opengl\ExperimenterSource\Chapter10\monitor\Debug\Table.exe
